@@ -14,7 +14,7 @@ Data source: election_results.csv
 Software used: Python 3.6.1, Visual Studio Code 1.38.1
 
 ## Election-Audit Results
-![Summary of anaylsis](Analysis/Summary_of_Results.png)
+![Summary of anaylsis](https://github.com/Jace-Loo/Election_Analysis/blob/a69b9c6e6611cc3b37afa6816fae5195c1e6471e/analysis/Summary_of_Results.png)
 Our analysis found that: 
 - There were a total of 369,711 votes cast in the election
 - The candidates were:
